@@ -1,0 +1,18 @@
+{
+  "name": "selenium-webdriver",
+  "version": "1.0.0",
+  "description": "selenium webdriver automation with javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashadul_Kibria",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.29.0"
+  },
+  "devDependencies": {
+    "chai": "^5.2.0"
+  }
+}
